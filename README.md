@@ -1,3 +1,3 @@
 # Hello-World
-First Github interaction
-learnign how to branch
+First Github interaction.
+Learning how to branch
